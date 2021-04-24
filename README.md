@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DPlazonic
 - 👀 I’m interested in full stack web development 
-- 🌱 I’m currently learning html, css, js, node.js, and python 
+- 🌱 I’m currently learning html, css, js, node.js
 - 📫 Hit me on https://www.linkedin.com/in/davor-plazonic/
 
 <!---
